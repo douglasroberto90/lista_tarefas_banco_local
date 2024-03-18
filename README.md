@@ -1,6 +1,6 @@
 # lista_tarefas_banco_local
 
-A new Flutter project.
+Projeto em flutter com um uso de banco de dados relacional SQLite. Essa foi uma simples conversão do projeto de lista de tarefas que grava a lista em um arquivo no smartphone (https://github.com/douglasroberto90/lista_tarefas_file_aula) para fazer uso do SQLite. Por conta dessa simples conversão os métodos de gravação não estão otimizados. Os alunos devem usar esse projeto como base e fazer as devidas alterações para que exista metodos para salvar, deletar e alterar um item da lista. Atualmentre só existe um método para recuperar a lista toda e um método que salva a lista toda deletando todos os dados anteriores do banco de dados, um comportamento não desejado.
 
 ## Getting Started
 
