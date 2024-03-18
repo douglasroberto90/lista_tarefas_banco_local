@@ -42,8 +42,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.blueGrey,
         centerTitle: true,
         title: Text(
-          "Lista de tarefas",
-        ),
+          "Lista de tarefas"),
       ),
       body: Column(
         children: [
